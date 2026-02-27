@@ -1,0 +1,5 @@
+{
+  "name": "GraphMind: Document-to-Graph Intelligence",
+  "description": "Extract knowledge graphs from documents with real-time line-by-line processing, interactive visualization, and LLM context integration.",
+  "requestFramePermissions": []
+}
